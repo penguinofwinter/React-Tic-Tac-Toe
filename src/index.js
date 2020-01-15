@@ -21,6 +21,8 @@ class Square extends React.Component {
 
 */
 
+
+
 //replacing the class with a function instead
 function Square(props){
   return (
